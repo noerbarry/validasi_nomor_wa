@@ -1,4 +1,4 @@
-# validasi_nomor_wa
+# Validasi Nomor WhatsApp
 Deskripsi Kode Python untuk Validasi Nomor Telepon di WhatsApp (Simulasi)
 Deskripsi
 Kode Python ini bertujuan untuk melakukan validasi nomor telepon di WhatsApp menggunakan API WhatsApp (simulasi). Kode ini membaca daftar nomor telepon dari file CSV dan mencoba melakukan permintaan ke API WhatsApp untuk memeriksa apakah nomor tersebut aktif di WhatsApp atau tidak. Perlu diperhatikan bahwa ini hanya merupakan simulasi dan tidak mengakses langsung API WhatsApp yang sebenarnya.
