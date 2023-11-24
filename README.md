@@ -15,6 +15,6 @@ Kode Python ini bertujuan untuk melakukan validasi nomor telepon di WhatsApp men
 - Kode ini mensimulasikan respons dari API WhatsApp berdasarkan logika tertentu untuk menghasilkan hasil validasi.
 - Hasil yang ditampilkan hanyalah simulasi dan tidak merepresentasikan status aktual nomor telepon di WhatsApp.
 
-#Kode dikembangkan sebagai contoh untuk demonstrasi validasi nomor telepon
+# Kode dikembangkan sebagai contoh untuk demonstrasi validasi nomor telepon
 Semoga bermanfaat
 teer.id/edukasi_ai
