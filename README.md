@@ -32,5 +32,5 @@ Program ini memvalidasi nomor WhatsApp menggunakan API dari `pabar-validasi-nomo
 
 
 Semoga bermanfaat 
-Jika ingin kontribusi silakan akses (https://trakteer.id/edukasi_ai/link)https://trakteer.id/edukasi_ai/link
+Jika ingin kontribusi silakan akses (https://trakteer.id/edukasi_ai/link)
 
