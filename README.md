@@ -80,6 +80,37 @@ Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet 
 ## Selengkapnya :  
 (https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb)
 
+## JIKA MENGGUNAKAN POSTMAN
+### WhatsApp Number Validation - Postman Collection
+Deskripsi
+Koleksi ini menyediakan request untuk validasi nomor WhatsApp menggunakan endpoint https://pabar-validasi-nomor-wa.vercel.app/api/validate.
+
+### Langkah-langkah Penggunaan
+### Instalasi dan Penggunaan
+1. Pastikan Anda telah mengunduh dan menginstal aplikasi Postman.
+2. Impor koleksi ini ke dalam aplikasi Postman.
+
+### Environment Variables
+Koleksi ini menggunakan beberapa environment variables:
+
+- base_url: Berisi URL dasar untuk endpoint API.
+- phone_number: Berisi nomor telepon WhatsApp yang ingin divalidasi.
+- country_code: Berisi kode negara yang sesuai dengan nomor telepon yang ingin divalidasi.
+- Pastikan untuk menyesuaikan nilai variabel ini sebelum mengirimkan request.
+
+### Endpoint dan Request
+- Endpoint URL: {{base_url}}/validate
+
+Request
+- Metode: GET
+- Parameter Query:
+  target: Isi dengan {{phone_number}}.
+  countryCode: Isi dengan {{country_code}}.
+
+### Pengiriman Request
+1. Pastikan nilai environment variables telah diatur dengan benar.
+2. Pilih request "Validate WhatsApp Number" di dalam koleksi.
+3. Klik "Send" untuk mengirimkan request ke endpoint yang ditentukan.
 
 ## Semoga bermanfaat 
 Jika ingin kontribusi silakan akses (https://trakteer.id/edukasi_ai/link)
