@@ -30,6 +30,37 @@ Program ini memvalidasi nomor WhatsApp menggunakan API dari `pabar-validasi-nomo
    ```bash
    pip install requests
 
+## Menjalankan Kode
+Pastikan Anda memiliki file CSV dengan nomor telepon yang ingin divalidasi.
+Ganti csv_file_path pada kode dengan path file CSV Anda.
+Jalankan kode dengan menjalankan script Python yang telah Anda buat.
+
+import csv
+import requests
+
+# Fungsi untuk memvalidasi nomor WhatsApp
+def validate_whatsapp_number(number):
+    # ... (kode fungsi validasi nomor WhatsApp)
+
+# Ganti dengan path file CSV Anda
+csv_file_path = '/content/nomor.csv'
+
+# ... (bagian membaca nomor telepon dari file CSV)
+
+Fungsi validate_whatsapp_number(number)
+Fungsi ini digunakan untuk memvalidasi nomor WhatsApp dengan mengirimkan permintaan ke API yang disediakan.
+
+Parameter:
+
+number (str): Nomor telepon yang ingin divalidasi.
+Output:
+
+Jika respons berhasil (status code 200), fungsi ini akan mengembalikan respons dalam format JSON.
+Jika respons gagal, fungsi ini akan mengembalikan pesan berisi informasi bahwa permintaan gagal dengan kode status yang sesuai.
+Catatan
+Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet tersedia saat menjalankan program untuk melakukan permintaan ke API.
+
+Selengkapnya : https://colab.research.google.com/drive/1O9BISXD_-MFUp0293CUzYuwQLQ2Qb-8e?usp=sharing
 
 Semoga bermanfaat 
 Jika ingin kontribusi silakan akses (https://trakteer.id/edukasi_ai/link)
