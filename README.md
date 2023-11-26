@@ -60,7 +60,8 @@ Jika respons gagal, fungsi ini akan mengembalikan pesan berisi informasi bahwa p
 Catatan
 Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet tersedia saat menjalankan program untuk melakukan permintaan ke API.
 
-Selengkapnya : https://colab.research.google.com/drive/1O9BISXD_-MFUp0293CUzYuwQLQ2Qb-8e?usp=sharing
+Selengkapnya :  
+(https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb)
 
 Semoga bermanfaat 
 Jika ingin kontribusi silakan akses (https://trakteer.id/edukasi_ai/link)
