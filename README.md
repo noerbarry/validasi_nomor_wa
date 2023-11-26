@@ -60,7 +60,7 @@ csv_file_path = '/content/nomor.csv'
 
 ## Fungsi validate_whatsapp_number(number)
 Fungsi ini digunakan untuk memvalidasi nomor WhatsApp dengan mengirimkan permintaan ke API yang disediakan.
-
+```
 Parameter:
 
 number (str): Nomor telepon yang ingin divalidasi.
