@@ -83,8 +83,9 @@ Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet 
 ## JIKA MENGGUNAKAN POSTMAN
 ### WhatsApp Number Validation - Postman Collection
 Deskripsi
-Koleksi ini menyediakan request untuk validasi nomor WhatsApp menggunakan endpoint \n
+Koleksi ini menyediakan request untuk validasi nomor WhatsApp menggunakan endpoint
 https://pabar-validasi-nomor-wa.vercel.app/api/validate.
+
 
 ### Langkah-langkah Penggunaan
 ### Instalasi dan Penggunaan
