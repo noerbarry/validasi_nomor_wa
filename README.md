@@ -80,6 +80,7 @@ Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet 
 ## Selengkapnya :  
 (https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb)
 
+
 ## Semoga bermanfaat 
 Jika ingin kontribusi silakan akses (https://trakteer.id/edukasi_ai/link)
 
