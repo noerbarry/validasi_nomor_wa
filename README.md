@@ -38,6 +38,17 @@ Jalankan kode dengan menjalankan script Python yang telah Anda buat.
 import csv
 import requests
 
+# Fungsi untuk memvalidasi nomor WhatsApp
+def validate_whatsapp_number(number):
+    # ... (kode fungsi validasi nomor WhatsApp)
+
+# Ganti dengan path file CSV Anda
+csv_file_path = '/content/nomor.csv'
+
+# ... (bagian membaca nomor telepon dari file CSV)
+
+ 
+
 ## Fungsi untuk memvalidasi nomor WhatsApp
 def validate_whatsapp_number(number):
     # ... (kode fungsi validasi nomor WhatsApp)
