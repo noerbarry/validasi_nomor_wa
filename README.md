@@ -10,6 +10,9 @@ Kode Python ini bertujuan untuk melakukan validasi nomor telepon di WhatsApp men
 5. Ganti path file CSV pada kode dengan path file Anda.
 6. Jalankan kode dengan menjalankan skrip Python pada lingkungan Anda.
 
+![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Screen%20Shot%202023-11-25%20at%2002.09.39.png?raw=true)
+
+
 # Keterangan
 - Kode menggunakan pustaka requests untuk membuat permintaan ke API WhatsApp (simulasi).
 - Kode ini mensimulasikan respons dari API WhatsApp berdasarkan logika tertentu untuk menghasilkan hasil validasi.
@@ -70,6 +73,9 @@ Jika respons berhasil (status code 200), fungsi ini akan mengembalikan respons d
 Jika respons gagal, fungsi ini akan mengembalikan pesan berisi informasi bahwa permintaan gagal dengan kode status yang sesuai.
 Catatan
 Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet tersedia saat menjalankan program untuk melakukan permintaan ke API.
+
+![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Screen%20Shot%202023-11-26%20at%2010.04.21.png?raw=true)
+
 
 ## Selengkapnya :  
 (https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb)
