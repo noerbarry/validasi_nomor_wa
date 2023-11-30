@@ -75,7 +75,7 @@ Catatan
 Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet tersedia saat menjalankan program untuk melakukan permintaan ke API.
 
 ![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Screen%20Shot%202023-11-26%20at%2010.04.21.png?raw=true)
-
+Note : contoh file csv tersedia di github
 
 ## Selengkapnya :  
 (https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb)
