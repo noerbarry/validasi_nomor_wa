@@ -77,6 +77,37 @@ Pastikan file CSV Anda memiliki data yang valid. Pastikan juga koneksi internet 
 ![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Screen%20Shot%202023-11-26%20at%2010.04.21.png?raw=true)
 Note : contoh file csv tersedia di github
 
+
+# Cara lain dengan Export Hasilnya ke csv
+![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Screen%20Shot%202023-12-01%20at%2016.49.44.png?raw=true)
+
+# Validasi Nomor WhatsApp ke File CSV
+
+Program ini menggunakan API eksternal untuk memvalidasi nomor WhatsApp yang diberikan dalam file CSV dan menyimpan hasil validasi ke dalam file CSV baru.
+
+## Cara Penggunaan
+
+1. Pastikan Anda memiliki Python yang terinstal di komputer Anda.
+2. Unduh atau salin kode dari file `validasi_nomor_whatsapp.py`.
+3. Pastikan Anda memiliki file CSV yang berisi nomor telepon yang akan divalidasi. Pastikan format nomor sesuai dengan yang diharapkan.
+4. Ganti `csv_file_path` pada kode dengan lokasi dari file CSV yang ingin Anda validasi.
+5. Jalankan program dengan perintah `python validasi_nomor_whatsapp.py`.
+6. Hasil validasi akan disimpan ke dalam file `hasil_validasi_nomor.csv`.
+
+## Keterangan
+
+- Program ini menggunakan API eksternal untuk memvalidasi nomor WhatsApp.
+- Setiap baris dalam file CSV hasil validasi akan memiliki dua kolom: nomor dan status.
+- Jika terjadi kesalahan pada validasi nomor, pesan kesalahan yang diberikan adalah "invalid format number".
+- Batas maksimal jumlah nomor yang akan diperiksa adalah 400.
+
+## Catatan
+
+Pastikan komputer Anda terhubung ke internet selama proses validasi nomor WhatsApp untuk memungkinkan program mengakses API eksternal.
+
+
+
+
 ## Selengkapnya :  
 (https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb)
 
