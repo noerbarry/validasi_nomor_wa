@@ -109,7 +109,7 @@ Pastikan komputer Anda terhubung ke internet selama proses validasi nomor WhatsA
 
 
 ## Selengkapnya :  
-https://github.com/noerbarry/validasi_nomor_wa/blob/main/validasi_nomor_wa.ipynb
+https://github.com/noerbarry/validasi_nomor_wa/blob/main/Validasi_nomor_WA.ipynb
 
 ## JIKA MENGGUNAKAN POSTMAN
 ### WhatsApp Number Validation - Postman Collection
