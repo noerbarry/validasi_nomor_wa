@@ -79,7 +79,7 @@ Note : contoh file csv tersedia di github
 
 
 # Cara lain dengan Export Hasilnya ke csv
-![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Screen%20Shot%202023-12-01%20at%2016.49.44.png?raw=true)
+![alt text](https://github.com/noerbarry/validasi_nomor_wa/blob/main/Validasi_nomor_WA.ipynb)
 
 # Validasi Nomor WhatsApp ke File CSV
 
